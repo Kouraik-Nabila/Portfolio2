@@ -327,7 +327,7 @@ img{
       }
 
       .button:hover{
-        background-color: var(--first-color-alt);
+        background-color: var(--first-color);
         color: var(--body-color);
       }
       .button--ghost{
