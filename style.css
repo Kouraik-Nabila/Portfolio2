@@ -302,7 +302,7 @@ img{
         bottom: 4rem;
         display: grid;
         row-gap: 2.25rem;
-        justify-content: center;
+        justify-items: center;
       }
 
       .home__scroll-icon{
