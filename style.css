@@ -312,7 +312,7 @@ img{
 
       .home__scroll-name{
         font-size: var(--smaller-font-size);
-        transform: rotate(-90deg);
+        transform: rotate(-120deg);
       }
 
 
