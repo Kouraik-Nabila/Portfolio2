@@ -316,7 +316,7 @@ img{
       }
 
 
-      .button{
+      .home__buttons{
         display: inline-block;
         background-color: var(--first-color);
         color: var(--body-color);
@@ -326,7 +326,7 @@ img{
         transition: .4s;
       }
 
-      .button:hover{
+      .home__buttons:hover{
         background-color: var(--first-color-alt);
         color: var(--body-color);
       }
