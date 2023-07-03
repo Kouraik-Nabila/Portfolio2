@@ -298,7 +298,7 @@ img{
 
       .home__scroll{
         color: var(--first-color);
-        right: -1.5rem;
+        right: -2rem;
         bottom: 4rem;
         display: grid;
         row-gap: 2.25rem;
@@ -312,7 +312,7 @@ img{
 
       .home__scroll-name{
         font-size: var(--smaller-font-size);
-        transform: rotate(-120deg);
+        transform: rotate(-90deg);
       }
 
 
