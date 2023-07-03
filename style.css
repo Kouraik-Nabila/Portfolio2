@@ -298,7 +298,7 @@ img{
 
       .home__scroll{
         color: var(--first-color);
-        right: -2rem;
+        right: -5rem;
         bottom: 4rem;
         display: grid;
         row-gap: 2.25rem;
