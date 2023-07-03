@@ -259,7 +259,7 @@ img{
       }
 
       .home__social,
-      .home_scroll{
+      .home__scroll{
         position: absolute;
 
       }
@@ -302,7 +302,7 @@ img{
         bottom: 4rem;
         display: grid;
         row-gap: 2.25rem;
-        justify-items: right;
+        justify-items: center;
       }
 
       .home__scroll-icon{
