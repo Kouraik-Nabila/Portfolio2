@@ -296,7 +296,45 @@ img{
         transform: rotate(90deg) translate(16px, 3px);
       }
 
+      .home__scroll{
+        color: var(--first-color);
+        right: -1.5rem;
+        bottom: 4rem;
+        display: grid;
+        row-gap: 2.25rem;
+        justify-content: center;
+      }
 
+      .home__scroll-icon{
+        font-size: 1.25rem;
+      }
+
+
+      .home__scroll-name{
+        font-size: var(--smaller-font-size);
+        transform: rotate(-90deg);
+      }
+
+
+      .button{
+        display: inline-block;
+        background-color: var(--first-color);
+        color: var(--body-color);
+        padding: .75rem 1rem;
+        border-radius: .5Rem;
+        font-weight: var(--font-medium);
+        transition: .4s;
+      }
+
+      .button:hover{
+        background-color: var(--first-color-alt);
+        color: var(--body-color);
+      }
+      .button--ghost{
+        background-color: transparent;
+        border: 2px solid var(--first-color);
+
+      }
 
 
 
