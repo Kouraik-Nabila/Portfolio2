@@ -196,6 +196,12 @@ img{
      }
 
 
+
+     .scroll-header{
+      box-shadow: 0 4px 4px hsla(0, 0%, 4%, .3);
+     }
+
+
       /* home */
       .home__container{
         position: relative;
@@ -420,7 +426,7 @@ img{
 
 
 
-        
+
  /* responsive */
 @media screen and (min-width: 968px) {
     :root{
