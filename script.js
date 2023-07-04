@@ -39,3 +39,13 @@ let mixerPortfolio = mixitup('.work__container', {
         duration: 300
     }
 });
+
+
+const linkWork =document.querySelectorAll('.work__item')
+
+function activeWork(){
+    linkWork.forEach(l=> l.classList.remove('active-work'))
+    this.classList.add('active-work')
+}
+
+linkWork.forEach(l=> l.addEventListener('click', activeWork))
