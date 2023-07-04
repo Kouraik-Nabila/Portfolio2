@@ -998,7 +998,7 @@ img{
 
 
   .services__container{
-    grid-template-columns: repeat(3,192px);
+    grid-template-columns: repeat(3, 250px);
     column-gap: 3rem;
   }
 
@@ -1026,6 +1026,13 @@ img{
   .testimonial__card{
     padding: 1.5rem 2rem;
   }
-  
-  
+
+  .nav__menu{
+    width: 328px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+  }
+  .
 }
+
