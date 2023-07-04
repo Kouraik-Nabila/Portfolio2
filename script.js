@@ -40,7 +40,7 @@ let mixerPortfolio = mixitup('.work__container', {
     }
 });
 
-
+//  activework 
 const linkWork =document.querySelectorAll('.work__item')
 
 function activeWork(){
