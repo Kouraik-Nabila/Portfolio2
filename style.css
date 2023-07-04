@@ -717,6 +717,15 @@ img{
           z-index: 1;
         }
 
+        .contact__form-input label{
+          position: absolute;
+          top: -10px;
+          left: 1.25rem;
+          font-size: var(--smaller-font-size);
+          padding: .25rem;
+          background-color: var(--body-color);
+          z-index: 10;
+        }
         .contact__form-tag{
           position: absolute;
           top: -10px;
