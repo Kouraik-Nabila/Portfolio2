@@ -992,13 +992,13 @@ img{
   }
 
   .skills__container{
-    grid-template-columns: repeat(2,350px);
+    grid-template-columns: repeat(2,450px);
     column-gap: 3rem;
   }
 
 
   .services__container{
-    grid-template-columns: repeat(3, 250px);
+    grid-template-columns: repeat(3, 300px);
     column-gap: 3rem;
   }
 
