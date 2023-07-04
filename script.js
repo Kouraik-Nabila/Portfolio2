@@ -31,7 +31,7 @@ modalClose.forEach((mc) =>{
 })
 
 // filter
-let mixerPortfolio = mixitup('work__container', {
+let mixerPortfolio = mixitup('.work__container', {
     selectors: {
         target: '.work__card'
     },
