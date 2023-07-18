@@ -1045,3 +1045,12 @@ img{
   
 }
 
+a,i{
+  text-decoration: none;
+ color: var(--text-color);
+}
+
+a,i:hover{
+  color: var(--first-color);
+}
+
