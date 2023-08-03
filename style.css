@@ -1048,6 +1048,7 @@ img{
 a,i{
   text-decoration: none;
  color: var(--text-color);
+ font-size:1.25rem ;
 }
 
 a,i:hover{
