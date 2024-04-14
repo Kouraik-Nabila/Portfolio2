@@ -240,6 +240,7 @@ img{
 
       .home__img{
         width: 190px;
+        position: center;
         
 
       }
@@ -957,7 +958,7 @@ img{
   }
 
   .home__img{
-    width: 500px;
+    width: 190px;
 
   }
 
