@@ -903,6 +903,7 @@ img{
 
   .home__img{
     width: 130px;
+
   }
 
   .about__info{
@@ -956,8 +957,8 @@ img{
   }
 
   .home__img{
-    width: 300px;
-    height: 300px;
+   width: 600px;
+        height: 400px;
 
   }
 
