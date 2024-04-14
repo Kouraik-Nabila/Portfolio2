@@ -239,11 +239,7 @@ img{
       }
 
       .home__img{
-        width: 190px;
-        display: flex;
-       align-items: flex-end;
-       justify-content: center;
-        
+        width: 140px;
 
       }
 
@@ -906,7 +902,6 @@ img{
 
   .home__img{
     width: 130px;
-
   }
 
   .about__info{
@@ -960,7 +955,7 @@ img{
   }
 
   .home__img{
-    width: 190px;
+    width: 180px;
 
   }
 
